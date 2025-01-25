@@ -8,5 +8,5 @@ function imgchange5(){document.getElementById("logo").classList.remove("imagecha
 function imgchange6(){document.getElementById("logo").classList.remove("imagechange1"); document.getElementById("logo").classList.remove("imagechange2");}
 function imgchange7(){document.getElementById("logo").classList.remove("imagechange2"); document.getElementById("logo").classList.add("imagechange1");
                    setTimeout("imgchange6()",3000);}
-function imgchange7(){document.getElementById("logo").classList.remove("imagechange1"); document.getElementById("logo").classList.add("imagechange2");
+function imgchange8(){document.getElementById("logo").classList.remove("imagechange1"); document.getElementById("logo").classList.add("imagechange2");
                    setTimeout("imgchange6()",3000);}
