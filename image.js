@@ -3,4 +3,5 @@ function imgchange2(){document.getElementById('logo').src='./image/buranko_girl_
 function imgchange3(){document.getElementById('logo').src='./image/buranko_girl_smile.png';
                    setTimeout("syashin4()",3000);}
 
-function imagchange4(){document.getElementById('logo').src='./image/buranko_girl_sad.png';}
+function imgchange4(){document.getElementById('logo').src='./image/buranko_girl_sad.png';}
+function imgchange5(){document.getElementById("logo").classList.add("imgchange");}
