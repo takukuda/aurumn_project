@@ -4,4 +4,4 @@ function imgchange3(){document.getElementById('logo').src='./image/buranko_girl_
                    setTimeout("imgchange4()",3000);}
 
 function imgchange4(){document.getElementById('logo').src='./image/buranko_girl_sad.png';}
-function imgchange5(){document.getElementById("logo").classList.add("imgchange");}
+function imgchange5(){document.getElementById("logo").classList.add("imagechange");}
